@@ -1,4 +1,4 @@
-# PyBer_Analysis ![alt text](total_student_count.png)
+# PyBer_Analysis
 ## Overview of PyBer Analysis
 The purpose of this project is to analyze all the rideshare data from Pyber, a rideshare company, during January to early May of 2019. The datapoints also include driver ids, ride ids, date of ride, fare amount, city and city type. Based on this data we will aggregate and review information that will produce effective visualizations.
 ## Results
