@@ -4,11 +4,12 @@ The purpose of this project is to analyze all the rideshare data from Pyber, a r
 ## Results
 See below for the results of the rideshare data for the following categories: total rides,total drivers, total fares, average fare per ride and driver, and total fare by city type.
 ### Rideshare Data
-![alt text](Total Rideshare data.png)
+![alt_text](https://github.com/khend10/PyBer_Analysis/blob/7a8fc27327b825f29748e009b87c7611e3db90b2/analysis/Total%20Rideshare%20data.png)
 ![alt text](analysis/Fig5.png)
 ![alt text](analysis/Fig6.png)
 ![alt text](analysis/Fig7.png)
 ![alt text](analysis/PyBer_fare_summary.png)
+
 Based on the information gathered from PyBer rideshare data, the city type directly correlates to the total rides, drivers, and fare. Typically, the urban city type has a larger population which would produce more rides and drivers to perform those services. Conversely, the rural city type has the least total rides and drivers and can be attributed to the total population. However, the highest average for the total amount of fare per ride and average per driver was the rural city type. Based on this data we can project that there are fewer rural rides but are more expensive vs. more frequent rides being less expensive for urban rides.
 
 ## Summary
